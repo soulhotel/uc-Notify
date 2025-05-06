@@ -4,7 +4,7 @@ A Notification kit with a modern design and dynamic functionality, made to handl
 1. Usage
     - `import 'uc-notify/uc-notify.js';` inside of module scripts.
     - Summon uc notify via `window.ucNotify("your message")`
-    - Summon within functions, mouse clicks, state changes
+    - Summon through functions, events, state changes
     - Pass along verification notifications
     - Pass along timers, errors, reminders
     - Pass along yes or no functions through notifications
