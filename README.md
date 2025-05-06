@@ -1,8 +1,4 @@
-# uc Notify
-Notification kit with modern design and dynamic functionality.
-
-
-### uc Notify - Notification kit
+## uc Notify - Notification UI/UX kit
 
 A Notification kit with a modern design and dynamic functionality, made to handle:
 1. Usage
