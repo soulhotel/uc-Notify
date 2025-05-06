@@ -1,4 +1,4 @@
-# uc-Notify
+# uc Notify
 Notification kit with modern design and dynamic functionality.
 
 
