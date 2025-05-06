@@ -2,12 +2,14 @@
 
 A Notification kit with a modern design and dynamic functionality, made to handle:
 1. Usage
+    - place `uc-notify folder` into project
     - `import 'uc-notify/uc-notify.js';` inside of module scripts.
     - Summon uc notify via `window.ucNotify("your message")`
     - Summon through functions, events, state changes
     - Pass along verification notifications
-    - Pass along timers, errors, reminders
-    - Pass along yes or no functions through notifications
+    - Pass along timers, errors, reminders, through notification
+    - Pass along yes or no functions, through notification
+    - Pass along customized y/n procs with extended handling, through notification
     - Pass along User Input (val) via input field, between user and function (host)
 1. Styling
     - `uc-notify/uc-notify.css` is loaded within `uc-notify.js`
