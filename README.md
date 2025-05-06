@@ -17,6 +17,15 @@ A Notification kit with a modern design and dynamic functionality, made to handl
     - styling can be overwritten with CSS from any :root
 
 
+
+
+
+https://github.com/user-attachments/assets/ab77a259-33a2-4977-961f-14965a69f9a2
+
+
+
+
+
 ### Some of the ways ucNotify can be summoned
 
 
